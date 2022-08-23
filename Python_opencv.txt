@@ -1,0 +1,99 @@
+https://blog.vietnamlab.vn/2017/12/22/xu-ly-anh-voi-opencv-tut-1-cai-dat-opencv/
+
+https://thigiacmaytinh.com/opencv-co-ban/
+
+https://thigiacmaytinh.com/setup-project-opencv-cho-ngon-ngu-python/
+
+http://toptechboy.com/tutorial/python-with-arduino-lesson-6-installing-pip-on-windows/    pip at cmd
+
+Control Panel\All Control Panel Items\System: C:\Python27;C:\Python27/scripts; C:\Users\ANTONRTI\AppData\Local\Programs\Python\Python36;C:\Users\ANTONRTI\AppData\Local\Programs\Python\Python36/scripts
+
+https://thigiacmaytinh.com/su-dung-virtualenv-de-setup-project-python/#more-2796
+
+https://www.stdio.vn/articles/opencv-voi-python-trong-bai-toan-dem-616   OpenCV 3.4.1.
+
+(Python 3.6.2 + opencv_python 4.2.0) for opencv>=3.0 + (Python 2.7 + opencv 2.4.1) for opencv<3.0
+
+(Download - numpy, matplotlib and opencv) https://www.youtube.com/watch?v=tP-d6ROmYeU
+
+https://www.youtube.com/watch?v=NZj6LI5a9vc&list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg  Hoc Python co ban
+https://medium.com/@hariyanto.tan95/set-up-sublime-text-3-to-use-python-3-c845b742c720
+https://vietjack.com/python/
+
+Commands:
+
+To look for Python and pip3 locations - 
+where python
+where pip3
+pip3 install .....
+
+for sublime text 3
+{
+	"cmd": ["C:/Users/ANTONRTI/AppData/Local/Programs/Python/Python36/python.exe", "-u", "$file"],
+"file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+ "selector": "source.python"
+}
+
+version: name.__version__
+
+https://nguyenanh.net/cai-dat-python-va-cac-goi-thu-vien/
+https://chieupham.github.io/2017/02/18/Python-Windows/
+
+https://vn.bitdegree.org/khoa-hoc  Scienist
+https://techtalk.vn/top-10-thu-vien-python-tot-nhat-cho-data-scientist-nua-dau-nam-2019.html
+
+https://vn.bitdegree.org/khoa-hoc/khoa-hoc-lap-trinh-python
+
+https://machinelearningcoban.com/faqs/   ML
+
+
+python -m pip install --upgrade pip
+
+py -m pip install --upgrade pip
+
+pip3 install .....
+pip3 uninstall .....
+
+pip install .....
+pip uninstall .....
+
+
+https://viblo.asia/p/opencv-with-python-part-1-924lJXQaKPM
+
+https://ktmt.github.io/blog/2014/09/23/xu-ly-anh-bang-python-va-opencv-mo-dau/
+
+https://koodibar.com/posts/xu-ly-hinh-anh-voi-python#x%E1%BB%AD-l%C3%BD-h%C3%ACnh-%E1%BA%A3nh-b%E1%BA%B1ng-pillow-v%C3%A0-opencv
+=======================================================================================================================================================
+
+1. https://viblo.asia/p/computer-vision-object-detection-nhan-dien-vat-the-chi-voi-10-dong-code-su-dung-imageai-naQZRbdjZvx   object detection using AI
+
+ pip3 install tensorflow
+ pip3 install --upgrade tensorflow
+ pip3 install numpy
+ pip3 install scipy 
+ pip3 install opencv-python
+ pip3 install pillow
+ pip3 install matplotlib
+ pip3 install h5py 
+ pip3 install keras 
+ pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+ pip3 install scikit-image   -> morphology
+ pip3 install pathlib
+ pip3 install -U opencv-contrib-python==3.4.2.16    for SIFT, SURF
+
+2. https://www.stdio.vn/articles/opencv-voi-python-trong-bai-toan-dem-616    Dem hat dau
+
+3. https://docs.opencv.org/4.2.0/
+
+4. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html              Docs
+
+5. https://techmaster.vn/khoa-hoc/25511/nhap-mon-machine-learning        ML co ban
+   https://techmaster.vn/posts/35474/convolution-tich-chap-giai-thich-bang-code-thuc-te
+
+6. https://github.com/opencv/opencv/tree/master/samples/data    database of images and videos for CV
+
+7. https://www.youtube.com/watch?v=lJ2YO5IucNs&list=PLXdfILWjpb1VFXSzucqbVgsCCHWwDSnei   Deep Learning
+
+8. https://fr.scribd.com/doc/264905933/OpenCV-l%E1%BA%ADp-trinh-Visual-C-va-xay-d%E1%BB%B1ng-giao-di%E1%BB%87n-%C4%91i%E1%BB%81u-khi%E1%BB%83n-tren-may-tinh
+
+9. https://phattrienphanmem123az.com/lap-trinh-opencv-c/cai-dat-va-tao-project-demo.html
